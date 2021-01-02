@@ -1,5 +1,5 @@
 # MuntasirNahid
-<p align='center'><img src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" alt="MuntasirNahid" width="100" height="100"></p>
+<p align='center'><img src="https://amensah.com/ezcoder/extras/Easy_Coder_Logo_LowRes.jpg" alt="MuntasirNahid" width="100" height="100"></p>
 
 * [About Me](#about-me)
 * [Tasks](#tasks)
