@@ -3,7 +3,7 @@
 
 * [About Me](#about-me)
 * [Tasks](#tasks)
-* [4 Ways to contact me](#4-ways-to-contact-me)
+* [5 Ways to contact me](#5-ways-to-contact-me)
 
 ## About Me
 
@@ -48,7 +48,7 @@ https://MuntasirNahid.github.io
 - [ ] Die
 
 
-## 4 ways to contact me
+## 5 ways to contact me
 
 <ul>
 <li><a href="muntasir19@student.sust.edu" rel="me">Mail</a>
