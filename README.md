@@ -51,7 +51,7 @@ https://MuntasirNahid.github.io
 ## 5 ways to contact me
 
 <ul>
-<li><a href="muntasir19@student.sust.edu" rel="me">Mail</a>
+<li><a href="muntasirnahid87@gmail.com" rel="me">Mail</a>
 <li><a href="https://www.instagram.com/muntasir_nahid/" rel="me">Instagram DM</a>
 <li><a href="https://bd.linkedin.com/in/muntasir-nahid-b1634a1aa" rel="me">Linkedin</a>
 <li><a href="https://www.facebook.com/muntasirmamun.nahid/" rel="me">Facebook</a>
